@@ -1,0 +1,6 @@
+temporary Meow Cat turkey 3/11/2018 122 0:23:0
+temporary Lion Cat chicken 5/12/2018 123 0:22:0
+temporary Bark Dog salad 9/19/2019 222 6:45:0
+temporary Ruff Dog meat 4/20/2018 223 0:54:0
+permanent Momo Cat tuna 12
+permanent Meme Dog meat 11
